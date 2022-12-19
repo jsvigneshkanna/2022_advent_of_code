@@ -1,3 +1,5 @@
+# link - https://adventofcode.com/2022/day/1
+
 
 def calculate_part1():
     with open('../data/day1.txt', mode='r') as data_file:
